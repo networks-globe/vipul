@@ -1,0 +1,4 @@
+[root@ip-172-31-19-164 ohiogit]# vi .gitignore
+*.css
+*.java
+
